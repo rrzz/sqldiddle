@@ -1,4 +1,4 @@
-SQL Fiddle
+SQL Diddle
 ==========
 
 ## THIS VERSION IS NOT IN USE ANY MORE
